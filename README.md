@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+Soy Martina, estudiante de Ingenieria en Sistemas.
+Me gusta programar en lenguajes de python y JavaScript.
+Actualmente estoy buscando desarrollar más mis habilidades de programación y realizar prácticas en empresas para tener más experiencia.
+Me gustan los ambientes en donde siempre puedo aprender y crecer tanto personalmente como profesionalmente.
 <!--
 **Marti0514/Marti0514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
